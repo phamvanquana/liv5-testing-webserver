@@ -140,7 +140,7 @@ def check_project_structure():
     required_items = {
         'index.html': 'File HTML chính',
         'content_en/': 'Folder chứa nội dung en',
-        'content_us/': 'Folder chứa nội dung us',
+        'content_vn/': 'Folder chứa nội dung us',
         'styles/': 'Folder chứa CSS',
         'scripts/': 'Folder chứa JavaScript',
         'logo/': 'Folder chứa logo'
@@ -281,4 +281,5 @@ Examples:
 
 if __name__ == '__main__':
     main()
+
 
