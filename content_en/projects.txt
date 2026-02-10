@@ -1,0 +1,30 @@
+{
+  "title": "Featured Projects",
+  "subtitle": "Events We've Successfully Delivered",
+  "projects": [
+    {
+      "name": "Golden Cup Football Tournament 2025",
+      "description": "Livestreamed all 32 matches with over 500,000 online viewers",
+      "image": "football-tournament.jpg",
+      "category": "Football"
+    },
+    {
+      "name": "Esports National Championship",
+      "description": "3-day continuous broadcast with 4 cameras and real-time graphics",
+      "image": "esports-gaming.jpg",
+      "category": "Esports"
+    },
+    {
+      "name": "Ho Chi Minh Marathon 2025",
+      "description": "Event livestream with drones and 6 camera points along the route",
+      "image": "marathon-running.jpg",
+      "category": "Outdoor Sports"
+    },
+    {
+      "name": "Tennis Open Championship",
+      "description": "Professional broadcast with instant replay and live statistics",
+      "image": "tennis-match.jpg",
+      "category": "Tennis"
+    }
+  ]
+}

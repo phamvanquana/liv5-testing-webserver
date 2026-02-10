@@ -1,0 +1,36 @@
+{
+  "title": "Dịch vụ của chúng tôi",
+  "subtitle": "Giải pháp toàn diện cho mọi nhu cầu",
+  "services": [
+    {
+      "name": "Livestream sự kiện thể thao",
+      "description": "Phát sóng trực tiếp các giải đấu bóng đá, cầu lông, tennis, esports và nhiều môn thể thao khác với chất lượng broadcast chuyên nghiệp.",
+      "features": [
+        "Multi-camera setup",
+        "Instant replay & slow motion",
+        "Đồ họa và hiệu ứng chuyên nghiệp",
+        "Bình luận trực tiếp"
+      ]
+    },
+    {
+      "name": "Sản xuất nội dung thể thao",
+      "description": "Tạo ra các video highlight, phỏng vấn, behind-the-scenes và nội dung độc quyền cho kênh truyền thông của bạn.",
+      "features": [
+        "Quay dựng chuyên nghiệp",
+        "Biên tập sáng tạo",
+        "Motion graphics",
+        "Color grading"
+      ]
+    },
+    {
+      "name": "Tư vấn & Thiết lập hệ thống",
+      "description": "Hỗ trợ thiết kế và lắp đặt studio livestream, tư vấn giải pháp streaming phù hợp với ngân sách và mục tiêu.",
+      "features": [
+        "Tư vấn thiết bị",
+        "Thiết kế studio",
+        "Đào tạo vận hành",
+        "Hỗ trợ kỹ thuật 24/7"
+      ]
+    }
+  ]
+}

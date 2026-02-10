@@ -1,0 +1,7 @@
+{
+  "title": "Elevate Every Sports Event",
+  "subtitle": "Professional Livestream - Premium Quality",
+  "description": "Liv5Studio delivers comprehensive live broadcasting solutions with cutting-edge technology, professional team, and extensive experience in sports broadcasting.",
+  "primaryButton": "Explore Now",
+  "secondaryButton": "Contact Us"
+}

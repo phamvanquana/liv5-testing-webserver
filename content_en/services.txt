@@ -1,0 +1,36 @@
+{
+  "title": "Our Services",
+  "subtitle": "Comprehensive Solutions for All Your Needs",
+  "services": [
+    {
+      "name": "Sports Event Livestream",
+      "description": "Live broadcasting of football, badminton, tennis, esports tournaments and many other sports with professional broadcast quality.",
+      "features": [
+        "Multi-camera setup",
+        "Instant replay & slow motion",
+        "Professional graphics and effects",
+        "Live commentary"
+      ]
+    },
+    {
+      "name": "Sports Content Production",
+      "description": "Create highlight videos, interviews, behind-the-scenes, and exclusive content for your media channels.",
+      "features": [
+        "Professional filming & editing",
+        "Creative editing",
+        "Motion graphics",
+        "Color grading"
+      ]
+    },
+    {
+      "name": "Consulting & System Setup",
+      "description": "Support studio design and installation, consulting on streaming solutions that fit your budget and goals.",
+      "features": [
+        "Equipment consulting",
+        "Studio design",
+        "Operation training",
+        "24/7 technical support"
+      ]
+    }
+  ]
+}
