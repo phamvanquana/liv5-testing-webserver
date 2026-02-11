@@ -1,0 +1,30 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ignore editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Ignore backup files
+*.bak
+*.tmp
+*.old
+
+# Ignore logs
+*.log
+logs/
+
+# Ignore node_modules if using any build tools in future
+node_modules/
+
+# Ignore sensitive files (if any)
+.env
+.env.local
+
+# Keep
+!.gitkeep

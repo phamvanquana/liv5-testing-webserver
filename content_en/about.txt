@@ -1,0 +1,27 @@
+{
+  "title": "About Liv5Studio",
+  "subtitle": "Your Trusted Partner for Every Sports Event",
+  "description": "Liv5Studio is a professional livestream studio with years of experience in broadcasting sports events of all sizes. We pride ourselves on delivering high-quality services with experienced experts and state-of-the-art equipment.",
+  "features": [
+    {
+      "icon": "📹",
+      "title": "Advanced Technology",
+      "description": "Equipped with 4K cameras, professional audio, and stable streaming systems"
+    },
+    {
+      "icon": "👥",
+      "title": "Professional Team",
+      "description": "Experienced editors, cameramen, and technical staff"
+    },
+    {
+      "icon": "⚡",
+      "title": "Real-time Broadcasting",
+      "description": "Low latency, stable quality across all platforms"
+    },
+    {
+      "icon": "🎯",
+      "title": "Flexible Customization",
+      "description": "Design interface and content tailored to your specific needs"
+    }
+  ]
+}

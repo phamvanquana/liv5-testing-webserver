@@ -1,0 +1,7 @@
+{
+  "title": "Nâng tầm mọi sự kiện thể thao",
+  "subtitle": "Livestream chuyên nghiệp - Chất lượng đỉnh cao",
+  "description": "Liv5Studio mang đến giải pháp phát sóng trực tiếp toàn diện với công nghệ hiện đại, đội ngũ chuyên nghiệp và kinh nghiệm dày dặn trong lĩnh vực thể thao.",
+  "primaryButton": "Khám phá ngay",
+  "secondaryButton": "Liên hệ tư vấn"
+}

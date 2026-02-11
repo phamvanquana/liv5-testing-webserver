@@ -1,0 +1,13 @@
+{
+  "title": "Liên hệ với chúng tôi",
+  "subtitle": "Hãy để Liv5Studio đồng hành cùng sự kiện của bạn",
+  "description": "Chúng tôi luôn sẵn sàng lắng nghe và tư vấn giải pháp phù hợp nhất cho nhu cầu của bạn.",
+  "workingHours": "Thứ 2 - Thứ 7: 8:00 - 18:00",
+  "formFields": {
+    "namePlaceholder": "Họ và tên",
+    "emailPlaceholder": "Email",
+    "phonePlaceholder": "Số điện thoại",
+    "messagePlaceholder": "Nội dung tin nhắn",
+    "submitButton": "Gửi tin nhắn"
+  }
+}

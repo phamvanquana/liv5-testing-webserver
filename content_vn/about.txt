@@ -1,0 +1,27 @@
+{
+  "title": "Về Liv5Studio",
+  "subtitle": "Đối tác tin cậy cho mọi sự kiện thể thao",
+  "description": "Liv5Studio là studio livestream chuyên nghiệp với nhiều năm kinh nghiệm trong việc phát sóng các sự kiện thể thao lớn nhỏ. Chúng tôi tự hào mang đến dịch vụ chất lượng cao với đội ngũ chuyên gia giàu kinh nghiệm và thiết bị hiện đại nhất.",
+  "features": [
+    {
+      "icon": "📹",
+      "title": "Công nghệ tiên tiến",
+      "description": "Trang bị camera 4K, âm thanh chuyên nghiệp và hệ thống streaming ổn định"
+    },
+    {
+      "icon": "👥",
+      "title": "Đội ngũ chuyên nghiệp",
+      "description": "Biên tập viên, quay phim và kỹ thuật viên giàu kinh nghiệm"
+    },
+    {
+      "icon": "⚡",
+      "title": "Phát sóng realtime",
+      "description": "Độ trễ thấp, chất lượng ổn định trên mọi nền tảng"
+    },
+    {
+      "icon": "🎯",
+      "title": "Tùy chỉnh linh hoạt",
+      "description": "Thiết kế giao diện và nội dung theo yêu cầu riêng của bạn"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "studioName": "Liv5Studio",
+  "tagline": "Professionalizing Every Sports Event",
+  "description": "Professional livestream studio, delivering world-class broadcasting experience",
+  "email": "contact@liv5studio.com",
+  "phone": "+84 123 456 789",
+  "address": "123 ABC Street, XYZ District,Ho Chi Minh City",
+  "facebook": "https://facebook.com/liv5studio",
+  "youtube": "https://youtube.com/@liv5studio",
+  "instagram": "https://instagram.com/liv5studio"
+}

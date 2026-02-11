@@ -1,0 +1,11 @@
+{
+  "studioName": "Liv5Studio",
+  "tagline": "Chuyên nghiệp hóa mọi sự kiện thể thao",
+  "description": "Studio livestream chuyên nghiệp, mang đến trải nghiệm phát sóng đẳng cấp quốc tế",
+  "email": "contact@liv5studio.com",
+  "phone": "+84 123 456 789",
+  "address": "123 Đường ABC, Quận XYZ, TP. Hồ Chí Minh",
+  "facebook": "https://facebook.com/liv5studio",
+  "youtube": "https://youtube.com/@liv5studio",
+  "instagram": "https://instagram.com/liv5studio"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Contact Us",
+  "subtitle": "Let Liv5Studio Partner with Your Event",
+  "description": "We're always ready to listen and provide the most suitable solutions for your needs.",
+  "workingHours": "Monday - Saturday: 8:00 AM - 6:00 PM",
+  "formFields": {
+    "namePlaceholder": "Full Name",
+    "emailPlaceholder": "Email",
+    "phonePlaceholder": "Phone Number",
+    "messagePlaceholder": "Your Message",
+    "submitButton": "Send Message"
+  }
+}

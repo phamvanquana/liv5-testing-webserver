@@ -1,0 +1,30 @@
+{
+  "title": "Dự án tiêu biểu",
+  "subtitle": "Những sự kiện chúng tôi đã thực hiện",
+  "projects": [
+    {
+      "name": "Giải bóng đá Cup Vàng 2025",
+      "description": "Livestream toàn bộ 32 trận đấu với hơn 500,000 người xem trực tuyến",
+      "image": "football-tournament.jpg",
+      "category": "Bóng đá"
+    },
+    {
+      "name": "Giải Esports National Championship",
+      "description": "Phát sóng 3 ngày liên tục với 4 camera và hệ thống đồ họa real-time",
+      "image": "esports-gaming.jpg",
+      "category": "Esports"
+    },
+    {
+      "name": "Marathon TP.HCM 2025",
+      "description": "Livestream sự kiện với drone và 6 điểm camera dọc đường chạy",
+      "image": "marathon-running.jpg",
+      "category": "Thể thao ngoài trời"
+    },
+    {
+      "name": "Giải Tennis Mở rộng",
+      "description": "Phát sóng chuyên nghiệp với instant replay và thống kê trực tiếp",
+      "image": "tennis-match.jpg",
+      "category": "Tennis"
+    }
+  ]
+}
